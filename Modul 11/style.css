@@ -1,0 +1,28 @@
+body
+{
+	font-family: 'roboto';
+	color: #000;
+}
+tbody{
+	background: white;
+
+}
+.isi{
+	background: #0e867580;
+    padding: 0 0 0 200px;
+    height: 640px;
+}
+.filter{
+	background: red;
+}
+.button
+{
+    margin-right: 10px;
+}
+.select{
+    width: 100px;
+}
+.input {
+    width: 150px;
+    float: left;
+}
